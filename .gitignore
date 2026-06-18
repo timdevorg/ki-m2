@@ -1,3 +1,5 @@
 /dataset/*
 /yolo_gtsrb_dataset/**
 /.venv/
+/runs/
+student_task.ipynb.bak
